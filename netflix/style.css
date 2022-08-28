@@ -1,0 +1,219 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	background-color: black;
+}
+.nav{
+	background-color: black;
+	background-image: url('p.jfif');
+	height: 100%;
+	
+	background-repeat: no;
+	background-position: center;
+	background-size: 100%;
+	padding: 0px 30px;
+
+}
+
+
+.top{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.logo{
+	width: 150px;
+	heigth: 150px;
+}
+a {
+	color: white;
+	background-color: red;
+	border: 1px solid red;
+	border-radius: 3px;
+	text-decoration: none;
+	font-size: 15px;
+	padding: 7px 13px;
+	font-family: monospace;
+	transition: 0.3s ease;
+
+}
+
+
+.box{
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0px;
+	padding-bottom: 70px;
+}
+
+ h2{
+	font-size: 60px;
+	text-align: center;
+	padding: 0px;
+	margin-top: 150px;
+}
+h3{
+	font-family: sans-serif;
+}
+p{
+	
+	font-family: sans-serif;
+}
+.l{
+	margin-top: 10px;
+	margin-bottom: 70px;
+}
+
+a:hover{
+	background-color: transparent;
+	
+	border: 2px solid white;
+	border-radius: 3px;
+}
+
+
+.first{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.first h4{
+	color: white;
+	font-size: 40px;
+}
+.first p{	color: white;
+
+}
+
+.second{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.second h4{
+	color: white;
+	font-size: 40px;
+}
+.second p{
+	color: white;
+
+}
+
+.three{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.three h4{
+	color: white;
+	font-size: 40px;
+}
+.three p{
+	color: white;
+
+}
+
+.four{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.four h4{
+	color: white;
+	font-size: 40px;
+}
+.four p{
+	
+
+}
+.k{
+color: white;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 50px;
+font-size: 20px;
+}
+
+.l2 a{
+	color :grey;
+	background-color: transparent;
+	border: 0px transparent;
+}
+.dd{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.email{
+	background-color: white;
+	color: grey;
+	border: 0px solid white;
+	margin-right: 3px;
+	padding-right: 370px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.get {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.l4 a{
+	color :grey;
+	background-color: transparent;
+	border: 0px transparent;
+}
+.l3 a{
+	color :grey;
+	background-color: transparent;
+	border: 0px transparent;
+}
+.l1 a{
+	color :grey;
+	background-color: transparent;
+	border: 0px transparent;
+}
+h5{
+	font-size: 15px;
+	padding-left: 200px;
+	color: grey;
+}
+
+
+
+.so{
+	display: flex;
+	padding-left: 200px;
+}
+
+.l1 ul li{
+	padding: 10px 10px;
+}
+
+.l2 ul li{
+	padding: 10px 10px;
+}
+.l3 ul li{
+	padding: 10px 10px;
+}
+.l4 ul li{
+	padding: 10px 10px;
+}
+
+.l1 ul li a:hover{
+	text-decoration: underline;
+}
+.l2 ul li a:hover{
+	text-decoration: underline;
+}
+.l3 ul li a:hover{
+	text-decoration: underline;
+}
+.l4 ul li a:hover{
+	text-decoration: underline;
+}
